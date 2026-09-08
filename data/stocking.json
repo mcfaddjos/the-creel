@@ -1,0 +1,86 @@
+{
+  "generatedAt": "2026-09-08T20:48:24.558Z",
+  "windowDays": 90,
+  "source": "https://data.wa.gov/resource/6fex-3r7d.json",
+  "rowCount": 280,
+  "unmatched": 272,
+  "entries": [
+    {
+      "water": {
+        "key": "tapps",
+        "name": "Lake Tapps",
+        "type": "lake",
+        "county": "Pierce",
+        "lat": 47.2371,
+        "lng": -122.1929
+      },
+      "events": 4,
+      "totalFish": 179683,
+      "lastDate": "2026-08-05T07:00:00.000Z",
+      "species": [
+        "Rainbow"
+      ],
+      "groups": [
+        "other"
+      ]
+    },
+    {
+      "water": {
+        "key": "american",
+        "name": "American Lake",
+        "type": "lake",
+        "county": "Pierce",
+        "lat": 47.1276,
+        "lng": -122.5479
+      },
+      "events": 2,
+      "totalFish": 2289,
+      "lastDate": "2026-08-03T07:00:00.000Z",
+      "species": [
+        "Cutthroat",
+        "Rainbow"
+      ],
+      "groups": [
+        "other"
+      ]
+    },
+    {
+      "water": {
+        "key": "potholes",
+        "name": "Potholes Reservoir",
+        "type": "lake",
+        "county": "Grant",
+        "lat": 46.9833,
+        "lng": -119.35
+      },
+      "events": 1,
+      "totalFish": 250,
+      "lastDate": "2026-07-25T07:00:00.000Z",
+      "species": [
+        "Golden Trout"
+      ],
+      "groups": [
+        "trout"
+      ]
+    },
+    {
+      "water": {
+        "key": "cowlitz",
+        "name": "Cowlitz River",
+        "type": "river",
+        "county": "Lewis/Cowlitz",
+        "lat": 46.35,
+        "lng": -122.65
+      },
+      "events": 1,
+      "totalFish": 100,
+      "lastDate": "2026-06-12T07:00:00.000Z",
+      "species": [
+        "Coho"
+      ],
+      "groups": [
+        "salmon"
+      ]
+    }
+  ]
+}
